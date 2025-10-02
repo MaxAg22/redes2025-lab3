@@ -34,7 +34,6 @@ Se utilizarán diferentes variables durante los experimentos.
 
 El *generationInterval* es la distribución de tiempo de a cuanto se genera un paquete nuevo. El valor de esta variable se establecerá en 3 diferentes durante todas las simulaciones. exponential(0.1), exponential(0.5) y exponential(1)
 
-
 ## Primera Instancia de Simulación
 -----------------------------------
 ### Caso 1: El receptor es el cuello de botella
